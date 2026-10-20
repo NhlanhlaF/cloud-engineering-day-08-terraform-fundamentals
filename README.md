@@ -6,7 +6,7 @@
 -Use Terraform to create and manage that file.
 #Format configuration 
 -terraform fmt validates the Terraform configuration files by checking if the files adhere to standard formatting  Terraform rules.
-![Terraform Format](screenshots/03-terraform fmt command.png)
+![Terraform format](https://github.com/NhlanhlaF/cloud-engineering-day-08-terraform-fundamentals/blob/main/screenshots/03-terraform%20fmt%20command.png)
 #Initialize Terraform
 -terraform init command is used to prepare the working directory and it downloads the essential provider plugins.
 ![Terraform Init](screenshots/04-Terraform init command.png)
